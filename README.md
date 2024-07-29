@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/geek-spot/geek-spot/raw/main/ezgif-2-b005661876.gif" alt="Hi, I'm Ali :) ">
+  <img src="https://github.com/geek-spot/geek-spot/raw/main/ezgif-2-b005661876.gif" alt="Hi, I'm Ali :) ">
 </p>
 
 
